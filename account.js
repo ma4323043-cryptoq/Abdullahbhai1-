@@ -1,12 +1,12 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "HM Top up
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL LINK https t.me/abdullah748875
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "telegram channel link";t.me/abdullah748875
 
 // =======================================================
 // TELEGRAM GROUP LINK
@@ -14,9 +14,9 @@ var telegram_channel_link = "telegram channel link";
 var telegram_group_link = "telegram group link";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// YOUTUBE CHANNEL LINK https://www.youtube.com/@abdullahbhai1..00
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "YouTube channel link";https://www.youtube.com/@abdullahbhai1..00
 
 // =======================================================
 // NOTIFICATION TEXT
